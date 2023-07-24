@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+nav,ul,li{
+    display: inline;
+}
+figure{
+    display: inline;
+}
+
+.button-ative{
+    color: black;
+}
+.button-ative:hover{
+      background-color: rgb(226, 219, 219);
+}
+.container{
+    display: flex;
+}
+body{
+    background-color: #F8F9FA;
+}
+.icones{
+    float: right;
+}
+
